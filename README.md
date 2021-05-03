@@ -15,3 +15,6 @@ Class: SY/ Course: Computer Engineering/ Faculty Name: Prof. Vaibhav Vasani/ Col
 
 Topic: Security patterns
 
+The code has been uploaded.
+Change the database and user details the code and alter the queries as per the tables in the database.
+
